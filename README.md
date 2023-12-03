@@ -30,19 +30,19 @@
 
 #### 🍃 深度之眼👀
 
-- 🐾   [第二章 Python基本语法元素.ipynb](theory/python/eyes/02. Python基础语法元素.ipynb)
-- 🐾   [第三章 基本数据类型.ipynb](theory/python/eyes/03. 基本数据类型.ipynb)
-- 🐾   [第四章 组合数据类型.ipynb](theory/python/eyes/04. 组合数据类型.ipynb)
-- 🐾   [第五章 程序控制结构.ipynb](theory/python/eyes/05. 程序控制结构.ipynb)
-- 🐾   [第六章 函数.ipynb](theory/python/eyes/06.  函数-面向过程的编程.ipynb)
-- 🐾   [第七章 类——面向对象的编程.ipynb](theory/python/eyes/07. 面向对象的编程.ipynb)
-- 🐾   [第八章 文件、异常和模块.ipynb](theory/python/eyes/08. 文件、异常和模块.ipynb)
-- 🐾   [第九章 有益的探索.ipynb](theory/python/eyes/09. 有意义的探索.ipynb)
-- 🐾   [第十章 Python标准库.ipynb](theory/python/eyes/10. Python标准库.ipynb)
-- 🐾   [第十一章 Numpy库.ipynb](theory/python/eyes/11. numpy库.ipynb)
-- 🐾   [第十二章 Pandas库.ipynb](theory/python/eyes/12. pandas库.ipynb)
+- 🐾   [第二章 Python基本语法元素.ipynb](theory/python/eyes/02.ipynb)
+- 🐾   [第三章 基本数据类型.ipynb](theory/python/eyes/03.ipynb)
+- 🐾   [第四章 组合数据类型.ipynb](theory/python/eyes/04.ipynb)
+- 🐾   [第五章 程序控制结构.ipynb](theory/python/eyes/05.ipynb)
+- 🐾   [第六章 函数.ipynb](theory/python/eyes/06.ipynb)
+- 🐾   [第七章 类——面向对象的编程.ipynb](theory/python/eyes/07.ipynb)
+- 🐾   [第八章 文件、异常和模块.ipynb](theory/python/eyes/08.ipynb)
+- 🐾   [第九章 有益的探索.ipynb](theory/python/eyes/09.ipynb)
+- 🐾   [第十章 Python标准库.ipynb](theory/python/eyes/10.ipynb)
+- 🐾   [第十一章 Numpy库.ipynb](theory/python/eyes/11.ipynb)
+- 🐾   [第十二章 Pandas库.ipynb](theory/python/eyes/12.ipynb)
 - 🐾   [第十三章 Matplotlib库.ipynb](theory/python/eyes/13.ipynb)
-- 🐾   [第十四章 scikit-learn 库.ipynb](theory/python/eyes/14.scikit-learn 库.ipynb)
+- 🐾   [第十四章 scikit-learn 库.ipynb](theory/python/eyes/14.ipynb)
 - 🐾   [第十五章 再谈编程.ipynb](theory/python/eyes/15.ipynb)
 
 
